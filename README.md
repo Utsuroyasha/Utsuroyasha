@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Automating Decision Making w/ add features](https://github.com/Utsuroyasha/Automating-Decision-Making)**
+- 🔭 I’m currently working on **[App](https://github.com/Utsuroyasha/Automating-Decision-Making).**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[My Repositories (for now)](https://github.com/Utsuroyasha?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Repositories (for now)](https://github.com/Utsuroyasha?tab=repositories).**
 
 - 📫 How to reach me **abdulwski@gmail.com**
 
