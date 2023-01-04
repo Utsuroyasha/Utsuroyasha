@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[App](https://github.com/Utsuroyasha/Automating-Decision-Making).**
+- 🔭 I’m currently working on this **[Project](https://github.com/Utsuroyasha/BlackJack).**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
